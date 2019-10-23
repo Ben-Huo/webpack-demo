@@ -14,7 +14,7 @@ module.exports = {
   // 入口
   // 用对象的方式配置多个入口
   entry: {
-    index:'./src/index.js'
+    main:'./src/main.js'
   },
 
   // 输出
